@@ -1,0 +1,388 @@
+record_id|fiscal_year|period|category|line_item|funding_source|approved|actual_zmw|description|source_document|stakeholders
+KIT-CDF-2026-001|2026|Jan-26|Completion Works|Completion of wall fence at Kamatipa Combined School||||Contract signed 19 Jan 2026; Chimwemwe Constituency|KCC CDF Signing Jan 2026|Kamatipa Combined School
+KIT-CDF-2026-002|2026|Jan-26|Sanitation|Construction of ablution block in Kawama||||Contract signed 19 Jan 2026; Chimwemwe Constituency|KCC CDF Signing Jan 2026|Kawama
+KIT-CDF-2026-003|2026|Jan-26|Security|Construction of police post in Chimwemwe East||||Contract signed 19 Jan 2026; Chimwemwe Constituency|KCC CDF Signing Jan 2026|Chimwemwe East
+KIT-CDF-2026-004|2026|Jan-26|Markets|Construction of Chamboli Market shelters tables and boundary wall||||Contract signed 19 Jan 2026; Wusakile Constituency|KCC CDF Signing Jan 2026|Construction of Chamboli Market shelters tables and boundary wall
+KIT-CDF-2026-005|2026|Jan-26|Street Lighting|Installation of 28 solar street lights (Nationalist) and 17 (Kalemba Drive Parklands Ward)||||Contract signed 19 Jan 2026; Nkana Constituency|KCC CDF Signing Jan 2026|Installation of 28 solar street lights (Nationalist) and 17 (Kalemba Drive Parklands Ward)
+KIT-CDF-2026-006|2026|Jan-26|Street Lighting|Installation of 14 solar street lights in Richmond area||||Contract signed 19 Jan 2026; Nkana Constituency|KCC CDF Signing Jan 2026|Richmond
+KIT-CDF-2026-007|2026|Jan-26|Infrastructure|Construction of bridge connecting Mukuba University and Zambia Compound||||Contract signed 19 Jan 2026; Chimwemwe Constituency|KCC CDF Signing Jan 2026|Construction of bridge connecting Mukuba University and Zambia Compound
+KIT-CDF-2026-008|2026|Jan-26|Sanitation|Construction of Sopelo Market ablution block||||Contract signed 19 Jan 2026; Chimwemwe Constituency|KCC CDF Signing Jan 2026|Construction of Sopelo Market ablution block
+KIT-CDF-2026-009|2026|Jan-26|Street Lighting|Installation of 32 solar street lights from Petroda via Buchi Hall to Joseph Musonda Stadium and ZESCO Pylon||||Contract signed 19 Jan 2026; Nkana Constituency|KCC CDF Signing Jan 2026|Installation of 32 solar street lights from Petroda via Buchi Hall to Joseph Musonda Stadium and ZESCO Pylon
+KIT-CDF-2026-010|2026|Jan-26|Sanitation|Construction of ablution block in Chimwemwe Constituency||||Contract signed 19 Jan 2026|KCC CDF Signing Jan 2026|Chimwemwe Constituency
+KIT-CDF-2026-011|2026|Jan-26|Water Supply|Equipping of borehole with 10000L steel tank stand and 10000L poly tank at Miyombo Luto Ward||||Contract signed 19 Jan 2026; Wusakile Constituency|KCC CDF Signing Jan 2026|Miyombo Luto Ward
+KIT-CDF-2026-012|2026|Jan-26|Rehabilitation|Rehabilitation of Garneton Local Court ablution block||||Contract signed 19 Jan 2026; Chimwemwe Constituency|KCC CDF Signing Jan 2026|Rehabilitation of Garneton Local Court ablution block
+KIT-CDF-2026-013|2026|Jan-26|Health|Rehabilitation of plumbing system at Mulenga Clinic||||Contract signed 19 Jan 2026; Kamfinsa Constituency|KCC CDF Signing Jan 2026|Mulenga Clinic
+KIT-CDF-2026-014|2026|Jan-26|Education|Rehabilitation of 1x7 classroom block at Kamatipa Combined School||||Contract signed 19 Jan 2026; Chimwemwe Constituency|KCC CDF Signing Jan 2026|Kamatipa Combined School
+KIT-CDF-2026-015|2026|Jan-26|Markets|Completion of market shelter at Kamatipa Market||||Contract signed 19 Jan 2026; Chimwemwe Constituency|KCC CDF Signing Jan 2026|Kamatipa Market
+KIT-CDF-2025-001|2025|2025|Markets|Construction of Chimpalampala Market Shelter||||Mulenga Compound; Kamfinsa Constituency|KCC CDF Contracts 2025|Construction of Chimpalampala Market Shelter
+KIT-CDF-2025-002|2025|2025|Infrastructure|Construction of Mwaiseni-Nkana East Footbridge||||Kwacha Constituency|KCC CDF Contracts 2025|Construction of Mwaiseni-Nkana East Footbridge
+KIT-CDF-2025-003|2025|2025|Water Supply|Equipping of 11 boreholes across all five constituencies||||All 5 constituencies|KCC CDF Contracts 2025|Equipping of 11 boreholes across all five constituencies
+KIT-CDF-2025-004|2025|2025|Education|Construction of wall fence at Wusakile Skills Centre||||Wusakile Constituency|KCC CDF Contracts 2025|Wusakile Skills Centre
+KIT-CDF-2025-005|2025|2025|Education|Delivery of school desks to various schools||||Nkana Constituency|KCC CDF Contracts 2025|Delivery of school desks to various schools
+KIT-CDF-2023-LOAN|2023|2023|Empowerment|K13177387 disbursed to 163 CDF loan beneficiaries across 5 constituencies||||Loan disbursement|Kitwe Council News|K13177387 disbursed to 163 CDF loan beneficiaries across 5 constituencies
+KIT2-CPS-2024-442|2024||Proposed|Completion of police post|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-443|2024||Proposed|Construction of additional Class room blocks at happy Kawama school|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-444|2024||Proposed|Electrification of happy school|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-445|2024||Proposed|Building for drainages/ digging|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-446|2024||Proposed|Construction of ablation block at Comis school|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-447|2024||Proposed|Expansion of Misenga clinic|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-448|2024||Proposed|Electrification of Kamatipa market|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-449|2024||Proposed|Construction of clinic(shelter) at Kawama clinic|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-450|2024||Proposed|Construction of modern toilets at happy Kawama school|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-451|2024||Proposed|Construction of youth friendly space at Kawama clinic|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-452|2024||Proposed|Drilling of solar driven water borehole at Kawama Clinic|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-453|2024||Proposed|Procurement of 450 desks at Comis school|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-454|2024||Proposed|Construction of bridge on Nakayombo stream|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-455|2024||Proposed|Electrification of Misenga school|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-456|2024||Proposed|Construction of modern maternity wine at Kawama clinic|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-457|2024||Proposed|Drilling and installation of solar powered bore holes|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-458|2024||Proposed|Electrification of east of Garneton police post|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-459|2024||Proposed|Construction of wall fence at Happy Kawama school|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-460|2024||Proposed|Drilling of water borehole solar driven at Comis school|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-461|2024||Proposed|Construction of ablution block at Lubuto Center|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-462|2024||Proposed|Construction of a 1x4 classroom block at Lubuto Centre|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-463|2024||Proposed|Construction of a wall fence at Lubuto centre|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-464|2024||Proposed|Construction of Chanda bridge|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-465|2024||Proposed|Roofing of Chimwemwe secondary school Hall|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-466|2024||Proposed|Installation of street lights|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-467|2024||Proposed|Desk procurement|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-468|2024||Proposed|Construction of drainages|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-469|2024||Proposed|Borehole drilling|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-470|2024||Proposed|Footbridge co-sharing between Buchi ward and Chimwemwe wards|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-471|2024||Proposed|Street lighting|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-472|2024||Proposed|Health post|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-473|2024||Proposed|Police post|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-474|2024||Proposed|Desk procurement|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-475|2024||Proposed|Education (wall fence and roof repairing)|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-476|2024||Proposed|Street lighting of various tarried roads in Buntungwa ward|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-477|2024||Proposed|Drilling & (water) construction of (5) boreholes|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-478|2024||Proposed|Construction of a placenta pit and fencing off of an incinerator/placenta pit at Chimwemwe clinic|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-479|2024||Proposed|Construction of an ablution block at mama Monty Combined School|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-480|2024||Proposed|Construction of vegetables traders market shelter at old Nakadoli market|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-481|2024||Proposed|Construction of 1*4 classroom block at Natwange combined school|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-482|2024||Proposed|Construction of a laboratory at mama Monty combined school|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-483|2024||Proposed|Desk procurement|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-484|2024||Proposed|Construction and equipping of a Laboratory 1*1 classroom block at Natwange combined school|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-485|2024||Proposed|Completion of a toilet a Sopelo and drilling of a borehole and equipping|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-486|2024||Proposed|Water connection Ituna area near Pried 070 course Primary School|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-487|2024||Proposed|Street lights|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-488|2024||Proposed|Desk procurement|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-489|2024||Proposed|Completion of wall fence at Twatasha combined|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-490|2024||Proposed|Construction of ablution block|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-491|2024||Proposed|Equipping of Twatasha maternity wing|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-492|2024||Proposed|Installation of commercial solar borehole at Ituna near racecourse primary school|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-493|2024||Proposed|Construction of bridge on the ring road connecting Mukuba university Zambia compound Garneton|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-494|2024||Proposed|Construction of modern maternity clinic in Garneton|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-495|2024||Proposed|Construction of a police station at the newly designated site|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-496|2024||Proposed|Construction of wall fence at Garneton secondary school|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-497|2024||Proposed|Construction of a youth community Center in Zambia compound|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-498|2024||Proposed|Construction of ablation block at the Garneton local court|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-499|2024||Proposed|Construction of ablation block Mwabashi basic school|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-500|2024||Proposed|Construction of a 1 block x 4 class rooms at Lwela primary school|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-501|2024||Proposed|Construction of bridge on vanadium road (urgent)|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-502|2024||Proposed|Construction of foot bridge of Twatasha stream|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-503|2024||Proposed|Purchasing of 200 desks for Garneton sec. School|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-504|2024||Proposed|Purchasing of 200 desks for Mwambashi basic school|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-505|2024||Proposed|Purchasing of 200 desks for OVC primary school|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-506|2024||Proposed|Purchasing of 200 desks for Kamilulu primary school|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-507|2024||Proposed|Purchasing of 200 desks for Lwela primary school|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-508|2024||Proposed|Purchasing of 200 desks for Bush Fire Primary School|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-509|2024||Proposed|Purchasing of 200 desks for Salamano primary school|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-510|2024||Proposed|Construction 1*4 classroom block at bush fire primary school|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-511|2024||Proposed|Construction of commercial boreholes at forest compound and azurite road|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-512|2024||Proposed|Construction of a market shelter at KCC Kamatipa|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-513|2024||Proposed|Construction of a police post|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-514|2024||Proposed|Construction of a 1x4 classroom block at Kamatipa combined school|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-515|2024||Proposed|Drilling of va borehole at Kamatipa combined school|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-516|2024||Proposed|Roof renovation of 1x6 classroom block at Kamatipa combined school|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-517|2024||Proposed|Construction of a bridge between Kawama ward and Kamatipa ward|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-518|2024||Proposed|Purchasing of land for a clinic|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-519|2024||Proposed|Desk procurement|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-520|2024||Proposed|Purchase of Desks|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-521|2024||Proposed|Construction of Wall Fence|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-522|2024||Proposed|Electrifying the teachers staff houses|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-523|2024||Proposed|Siting drilling and equipping of borehole|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-524|2024||Proposed|Placing of Culverts|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-525|2024||Proposed|Construction of an Ablution Block|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-526|2024||Proposed|Construction of Industrial Arts Workshop|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-527|2024||Proposed|Construction an Ablution Block|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-528|2024||Proposed|Construction of 1x3 Classroom Block|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-529|2024||Proposed|Construction of 1x3 Classroom Block|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-530|2024||Proposed|Rehabilitation of Clinic|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-531|2024||Proposed|Construction an Ablution Block|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-532|2024||Proposed|Construction of Market Shelter|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-533|2024||Proposed|Construction of 1x3 Classroom Block|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-534|2024||Proposed|Construction of Staff House|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-535|2024||Proposed|Construction of Health Post|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-536|2024||Proposed|Construction of an Ablution Block|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-537|2024||Proposed|Construction of 1x2 Classroom Block|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-538|2024||Proposed|Construction of an Ablution Block|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-539|2024||Proposed|Construction of Health Post|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-540|2024||Proposed|Construction of an Ablution Block|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-541|2024||Proposed|Construction of 1x3 Classroom Block|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-542|2024||Proposed|Construction of 1x4 Classroom Block|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-543|2024||Proposed|Completion of Ndeke Mini Hospital|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-544|2024||Proposed|Construction of an Ablution Block|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-545|2024||Proposed|Construction of Police Post|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-546|2024||Proposed|Water Supply - Nkana Water|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-547|2024||Proposed|Installation of 2.8km of Streetlights|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-548|2024||Proposed|Installation of 2km of Streetlights|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-549|2024||Proposed|Installation of 2km of Streetlights|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-550|2024||Proposed|Installation of 0.8km of Streetlights|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-551|2024||Proposed|Water Supply - Nkana Water|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-552|2024||Proposed|Rehabilitation of 1x3 Classroom Block and Wall Fence|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-553|2024||Proposed|Construction of Science and Computer Laboratory|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-554|2024||Proposed|Construction of Admission Wards|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-555|2024||Proposed|Construction of Foot Bridge|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-556|2024||Proposed|Construction of Foot Bridge|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-557|2024||Proposed|Construction of Foot Bridge|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-558|2024||Proposed|Construction of Foot Bridge|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-559|2024||Proposed|Water Supply - Nkana Water|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-560|2024||Proposed|Renovation of Market Shelter|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-561|2024||Proposed|Construction of Police Post|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-562|2024||Proposed|Construction of Wall Fence|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-563|2024||Proposed|Construction of Foot Bridge|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-564|2024||Proposed|Construction of Foot Bridge|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-565|2024||Proposed|Rehabilitation of Foot Bridge|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-566|2024||Proposed|Installation of 1.2km of Streetlights|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-567|2024||Proposed|Installation of 1.6km of Streetlights|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-568|2024||Proposed|Installation of 1.9km of Streetlights|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-569|2024||Proposed|Installation of 3.9km of Streetlights|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-570|2024||Proposed|Construction of Market Shelter|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-571|2024||Proposed|Construction of Market Shelter|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-572|2024||Proposed|Construction of Police Post|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-573|2024||Proposed|Construction of Mothers Shelter|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-574|2024||Proposed|Construction of 1x1 Classroom Block|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-575|2024||Proposed|Buying off houses for expansion of Mulenga Primary School|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-576|2024||Proposed|Construction of Wall Fence|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-577|2024||Proposed|Construction of 1x3 Classroom Block|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-578|2024||Proposed|Rehabilitation of Ablution Block|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-579|2024||Proposed|Construction of Wall Fence|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-580|2024||Proposed|Construction of 1x3 Classroom Block|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-581|2024||Proposed|Construction of 1x3 Classroom Block|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-582|2024||Proposed|Construction of an Ablution Block|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-583|2024||Proposed|Purchase of earth moving Machinery|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-584|2024||Proposed|Siting drilling and equipping of borehole|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-585|2024||Proposed|Construction of a Classroom Block in Misaka|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-586|2024||Proposed|Rehabilitation of Market Shelter|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-587|2024||Proposed|Completion of Toilet at Market Shelter|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-588|2024||Proposed|Grading of Roads|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-589|2024||Proposed|Procurement of 4 Toyota Hiace Ace Mini Bus 14 Seats|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-590|2024||Proposed|Construction of an Ablution Block|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-591|2024||Proposed|Construction of Wall Fence with the inclusion of Desks|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-592|2024||Proposed|Construction of skills Centre|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-593|2024||Proposed|Construction of Wall Fence|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-594|2024||Proposed|Water Pump|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-595|2024||Proposed|Construction of Wall Fence|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-596|2024||Proposed|Construction of Wall Fence|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-597|2024||Proposed|Construction of Wall Fence|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-598|2024||Proposed|Construction of an Ablution Block|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-599|2024||Proposed|Construction of a Health Post|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-600|2024||Proposed|Drilling And Equipping of Borehole at Bulangililo Clinic|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-601|2024||Proposed|Equipping of Borehole - at Mwaiseni overspill Market and Ablution|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-602|2024||Proposed|Equipping of Borehole - at Nyali Community Police Post|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-603|2024||Proposed|Health Clinic|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-604|2024||Proposed|Procurement of 100 Desks for Kafue Park Primary School|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-605|2024||Proposed|Procurement of 110 Desks for the 1x4 Classroom Block at Chantete Primary School|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-606|2024||Proposed|Procurement of 180 Desks for Lulamba Primary School|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-607|2024||Proposed|Procurement of 200 Desks at Bulangililo Combined School A & B|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-608|2024||Proposed|Procurement of 200 Desks for Mitanto School Community Hall|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-609|2024||Proposed|Procurement of 200 School Desks for Riverain School|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-610|2024||Proposed|Procurement of 60 Desks for Mupundu Primary School|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-611|2024||Proposed|Procurement of 750 Desks and 200 Desk Boards at Ipusukilo Primary School|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-612|2024||Proposed|Procurement of a Bull Dozer|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-613|2024||Proposed|Procurement of a Grader & Tipper Truck (Bell)|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-614|2024||Proposed|Procurement of School Desks|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-615|2024||Proposed|Purchase of aa Ambulance at Eddeco Clinic and Upgrading the Clinic and Toilets|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-616|2024||Proposed|Purchase of Equipment for the Maternity Wing at Ipusukilo Clinic|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-617|2024||Proposed|Rehabilitation of OPD 1 at Kwacha Clinic|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-618|2024||Proposed|Re-Installation and New Connections - Equipping of Borehole|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-619|2024||Proposed|Re-Installation and New Connections - Equipping of Borehole|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-620|2024||Proposed|Road Paving of CBU Clinic Road|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-621|2024||Proposed|Siting And Drilling of Borehole - at Nyali Community Police Post|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-622|2024||Proposed|Siting And Drilling of Borehole - at Mwaiseni Overspill Market|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-623|2024||Proposed|Stone Pitching of The Drainage in Chimbotela Area|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-624|2024||Proposed|Supply and Delivery of an Ambulance|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-625|2024||Proposed|Supply and Delivery of Motor Grader|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-626|2024||Proposed|Supply and Delivery of Tipper Truck|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-627|2024||Proposed|Supply and Installation of a Sliding Gate at Bulangililo Clinic|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-628|2024||Proposed|Upgrading of Ipusukilo Market/ Borehole Installation|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-629|2024||Proposed|Upgrading of Nkana East Clinic to a Mini Hospital|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-630|2024||Proposed|Upgrading the Road from Ipusukilo Police Post through Eddeco Clinic|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-631|2024||Proposed|Extension of Concrete Base on Entrance and Exits|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-632|2024||Proposed|Construction of an Ablution Block at Bulangililo Market|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-633|2024||Proposed|Construction of Concrete Block Wall Fence at Lulamba Primary School|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-634|2024||Proposed|Construction of Police Post in Kwacha Resettlement (Kr) Area|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-635|2024||Proposed|Construction of Standard Health Post at Kafue|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-636|2024||Proposed|Drilling and equipping|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-637|2024||Proposed|Variation on the Construction of Police Post|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-638|2024||Proposed|Construction of a Mother's shelter at Mugala Clinic|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-639|2024||Proposed|Construction of a Market Electric Borehole and Water Scheme in Mugala Community|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-640|2024||Proposed|Electrification of Mugala Clinic and the entire community using (REA) Funds|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-641|2024||Proposed|Wirefencing Procurement of furniture and painting of a Police Post|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-642|2024||Proposed|Grading and Putting of Laterite on Existing Main Roads|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-643|2024||Proposed|Installation of Solar Street lights in all Major Roads in the ward|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-644|2024||Proposed|Procurement of Security Containers|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-645|2024||Proposed|Construction of Speed Humps|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-646|2024||Proposed|Construction of a Wall fence around Kamakonde Primary School|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-647|2024||Proposed|Water (Drilling of Solar Powered Borehole at Mipaip Section|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-648|2024||Proposed|Construction of a Raod Using Waste Rock and Laterite|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-649|2024||Proposed|Construction of Houses|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-650|2024||Proposed|Martenity wing Construction|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-651|2024||Proposed|Construction of Classroom Blocks|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-652|2024||Proposed|Development of a Road Network|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-653|2024||Proposed|Construction of a Pipped water Supply System|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-654|2024||Proposed|Grading and compacting a 20KM Road|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-655|2024||Proposed|Bridge Construction|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-656|2024||Proposed|Construction of a 1x3 Class Room|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-657|2024||Proposed|Street lights|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-658|2024||Proposed|Renovations of Country Buildings Judiciary|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-659|2024||Proposed|Procurement of School Desks|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-660|2024||Proposed|Construction of Staff Toilets|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-661|2024||Proposed|Procurement of School Desks|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-662|2024||Proposed|Construction of Road|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-663|2024||Proposed|Construction of Police post|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-664|2024||Proposed|Road grading of Street Roads|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-665|2024||Proposed|Procurement of School Desks|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-666|2024||Proposed|Construction of Health facility|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-667|2024||Proposed|Construction and rehabilitation of infrastructure at Kitwe Boys Secondary School|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-668|2024||Proposed|Renovation of Court building at Kitwe II Local Court|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-669|2024||Proposed|Renovation of Court building at Kitwe Sub Court|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-670|2024||Proposed|Construction of Public Ablution block at Kitwe High Court|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-671|2024||Proposed|Paving of Court yard at Kitwe High Court|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-672|2024||Proposed|Construction of a 1 x 4 Classroom block at St. Anthony Primary School|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-673|2024||Proposed|Construction of a wall fence around Kitwe Main Combined School|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-674|2024||Proposed|Installation of solar street lights|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-675|2024||Proposed|Construction of Market shelter in Kandawe|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-676|2024||Proposed|Construction of Charcoal market shelter in St. Anthony|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-677|2024||Proposed|Construction of a Police post in Buyantanshi|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-678|2024||Proposed|Installation of solar street lights along Diamond drive|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-679|2024||Proposed|Street lights|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-680|2024||Proposed|Water Project|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-681|2024||Proposed|Construction of Toilet at Mindolo North Clinic|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-682|2024||Proposed|Wall fence at Salem Primary School|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-683|2024||Proposed|Drilling of borehole at Chamboli primary school|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-684|2024||Proposed|Purchase of an ambulance|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-685|2024||Proposed|Purchase of 3305 desks 100 stools and rehabilitation of 350 desks|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-686|2024||Proposed|Construction of a clinic in Luangwa|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-687|2024||Proposed|Contribution towards hospital road|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-688|2024||Proposed|Additional funds towards the purchase of a bull tractor|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-689|2024||Proposed|Allocation for CDF hour radio show and publicity|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-690|2024||Proposed|Electrification of Lima Primary School|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-691|2024||Proposed|Construction of an ablution block at the Wusakile local court|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-692|2024||Proposed|Completion of 120m wall fence at the Wusakile Skills Training Centre|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-693|2024||Proposed|Fuel for the bull tractor|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-694|2024||Proposed|Drilling of a borehole in Kakolo|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-695|2024||Proposed|Equipping of a borehole in Kakolo|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-696|2024||Proposed|Drilling of a borehole in Luangwa|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-697|2024||Proposed|Equipping of a borehole in Luangwa|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-698|2024||Proposed|Trapezoidal drainage|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-699|2024||Proposed|Additional funds towards Muchele borehole in Luangwa ward|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-700|2024||Proposed|Twatemwa Combined School|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-701|2024||Proposed|Sinking and Equipping 4 Solar Boreholes|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-702|2024||Proposed|Completion of a 1x4 Classroom Block|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-703|2024||Proposed|Construction of a Science Laboratory|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-704|2024||Proposed|Construction of a School Boundary Wall Fence|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-705|2024||Proposed|Construction of a Clinic|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-706|2024||Proposed|Procurement of 800 Desks|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-707|2024||Proposed|Construction of a School Hall|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-708|2024||Proposed|Completion of a 1x4 Classroom Block|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-709|2024||Proposed|Construction of a School Boundary Wall Fence|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-710|2024||Proposed|Replacement of Water Pipes|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-711|2024||Proposed|Construction of a Police Post|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-712|2024||Proposed|Provision of West Lock material on Mpundu Road|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-713|2024||Proposed|Construction of a Foot Bridge at Huimanism Road|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-714|2024||Proposed|Procurement of 500 Desks|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-715|2024||Proposed|Construction of a School Boundary Wall Fence|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-716|2024||Proposed|Construction of Kamana Mainsa Road|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-717|2024||Proposed|Construction of Namyra Road|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-718|2024||Proposed|Construction of a Health Post|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-719|2024||Proposed|Grading of roads|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-720|2024||Proposed|Sinking of 5 boreholes|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-721|2024||Proposed|Grading of road|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-722|2024||Proposed|Construction of a community School|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-723|2024||Proposed|Grading of road|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-724|2024||Proposed|Sinking of 5 boreholes|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-725|2024||Proposed|Construction of a bridge and road|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-726|2024||Proposed|Plastering of Lupili School|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-727|2024||Proposed|Sinking of 6 boreholes|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-728|2024||Proposed|Road grading and bridge construction|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-729|2024||Proposed|Road construction|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-730|2024||Proposed|Construction of a community School|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-731|2024||Proposed|Construction of a police post|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-732|2024||Proposed|Construction of 1*4 classroom block|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-733|2024||Proposed|Sinking of 5 boreholes|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-734|2024||Proposed|Construction of a Health Post|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-735|2024||Proposed|Sinking of 5 boreholes|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-736|2024||Proposed|Construction of two teachers houses|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-737|2024||Proposed|Procurement of a 7 in 1 bull tractor|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-738|2024||Proposed|Construction of a vehicle bridge|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-739|2024||Proposed|Construction of a vehicle bridge|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-740|2024||Proposed|Rerouting of main water pipe|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-741|2024||Proposed|Installation of street lights|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-742|2024||Proposed|Rehabilitation of two ablution blocks|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-743|2024||Proposed|Construction of a washing bay|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-744|2024||Proposed|Refurbishing of Nkana Primary School house and turn it into a police post|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-745|2024||Proposed|Buying 350 desks|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-746|2024||Proposed|Refurbishing of Former F market and turn it into a community centre|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-747|2024||Proposed|Changing of old sewer line|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-748|2024||Proposed|Construction of a sports playing ground and fencing with a wall fence|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-749|2024||Proposed|Completion of wall fence|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-750|2024||Proposed|Extension and construction of a drainage|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-751|2024||Proposed|Drainage construction|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-752|2024||Proposed|Drainage construction|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2023-753|2023||Proposed|Drainage construction|2023 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-754|2024||Proposed|Drainage construction|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-755|2024||Proposed|Drainage construction|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-756|2024||Proposed|Procurement of a 7 in 1 bull tractor|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-757|2024||Proposed|Installation of street lights|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-758|2024||Proposed|Installation of street lights|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-759|2024||Proposed|Procurement of 450 desks|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-760|2024||Proposed|Procurement of 450 desks|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-761|2024||Proposed|Borehole drilling|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-762|2024||Proposed|Drainage Rehabilitation|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-763|2024||Proposed|Road rehabilitation|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-764|2024||Proposed|Rehabilitation of access roads and bridges|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-765|2024||Proposed|Water reticulation|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-766|2024||Proposed|Installation of street lights|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-767|2024||Proposed|Construction of 1*3 classroom block|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-768|2024||Proposed|Construction of Community Police Post|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-769|2024||Proposed|Construction of a road and bridge|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-770|2024||Proposed|Road network|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-771|2024||Proposed|Construction of Labour ward and mothers shelter|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-772|2024||Proposed|Procurement of desks|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CPS-2024-773|2024||Proposed|Sinking of 2 boreholes|2024 CDF funding|No|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CA-2024-774|2024||Approved|Procurement of desks - zmw2800000||Yes|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CA-2024-775|2024||Approved|Chibote Girls Secondary School - 100 ds desks||Yes|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CA-2024-776|2024||Approved|Kamatipa Combined School - 100 ds desks & 25 ss desks||Yes|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CA-2024-777|2024||Approved|Racecourse Primary School - 100 ds desks||Yes|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CA-2024-778|2024||Approved|Minsenga School - 100 ds desks||Yes|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CA-2024-779|2024||Approved|Comis Combined School - 400 ds desks||Yes|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CA-2024-780|2024||Approved|Chimwemwe School - 50 ds desks||Yes|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CA-2024-781|2024||Approved|Twatasha School - 100 ds desks||Yes|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CA-2024-782|2024||Approved|Ishuko School - 100 ds desks||Yes|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CA-2024-783|2024||Approved|Kamilulu School - 100 ds desks||Yes|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CA-2024-784|2024||Approved|Mwambashi Primary School - 100 ds desks||Yes|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CA-2024-785|2024||Approved|Garneton combined School - 150 ds desks||Yes|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CA-2024-786|2024||Approved|Bushfire school - 100 ds desks||Yes|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CA-2024-787|2024||Approved|Natwang school - 75 ds desks||Yes|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CA-2024-788|2024||Approved|Allocation of funds towards the rehabilitation of Hospital Road||Yes|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CA-2024-789|2024||Approved|Procurement of an Ambulance||Yes|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CA-2024-790|2024||Approved|Additional funds of 1800000 for the construction of drainages in various wards||Yes|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CA-2024-791|2024||Approved|Construction of drainages along Lubuto Kanwe and Katilungu roads||Yes|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CA-2024-792|2024||Approved|Construction of drainages along happy Kawama road||Yes|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CA-2024-793|2024||Approved|Siting drilling and equipping of electricity powered borehole at Kawama clinic||Yes|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CA-2024-794|2024||Approved|Siting drilling and equipping of electricity powered borehole at Kamatipa combined school||Yes|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CA-2024-795|2024||Approved|Siting drilling and equipping of electricity powered borehole at Sopelo||Yes|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CA-2024-796|2024||Approved|Siting drilling and equipping of solar borehole at Kaluba||Yes|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CA-2024-797|2024||Approved|Siting drilling and equipping of solar borehole at Kutuba||Yes|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CA-2024-798|2024||Approved|Siting drilling and equipping of solar borehole at Ituna||Yes|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CA-2024-799|2024||Approved|Siting drilling and equipping of solar borehole at Kampemba Zone||Yes|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CA-2024-800|2024||Approved|Siting drilling and equipping of solar borehole at Riverside Zone||Yes|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CA-2024-801|2024||Approved|Siting drilling and equipping of solar borehole at zulu close||Yes|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CA-2024-802|2024||Approved|Construction of an ablation block at Lubuto Centre Primary school||Yes|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CA-2024-803|2024||Approved|Roofing of Chimwemwe School Hall||Yes|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CA-2024-804|2024||Approved|Equipping of maternity wing at Twatasha clinic||Yes|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CA-2024-805|2024||Approved|Construction of maternity wing at Garneton clinic||Yes|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CA-2024-806|2024||Approved|Delivery of Desk at Temwani school 25 Desk||Yes|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|
+KIT2-CA-2024-807|2024||Approved|||Yes|||CDF-2024-PROPOSED-AND-APPROVED-PROJECTS.pdf|

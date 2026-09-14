@@ -1,0 +1,11 @@
+# Core dependencies
+pandas>=2.0.0
+jupyter>=1.0.0
+notebook>=6.5.0
+
+# Data cleaning & analysis
+numpy>=1.24.0
+openpyxl>=3.1.0
+
+# Optional: for Kaggle API upload
+kaggle>=1.6.0

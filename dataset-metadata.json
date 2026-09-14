@@ -1,0 +1,61 @@
+{
+  "title": "Kitwe City Council Digital Footprint Dataset (Zambia)",
+  "id": "<your-kaggle-username>/db-unza26-csc4792-kitwe-city-council",
+  "licenses": [
+    {
+      "name": "MIT"
+    }
+  ],
+  "keywords": [
+    "zambia",
+    "local-government",
+    "council",
+    "budget",
+    "copperbelt",
+    "kitwe",
+    "constituency-development-fund",
+    "financial-statements",
+    "council-resolutions",
+    "public-finance"
+  ],
+  "subtitle": "A multi-source dataset of budget, CDF projects, council resolutions, financial statements, and debt data for Kitwe City Council, Zambia (2018–2026)",
+  "description": "This dataset consolidates publicly available digital footprints of Kitwe City Council (Copperbelt Province, Zambia) into a structured, pipe-separated format. It covers 963 records across 17 record types including budget revenue, budget expenditure, CDF projects, council resolutions, annual financial statements, debt arrears, and empowerment grants for fiscal years 2018–2026. The dataset was constructed as part of CSC4792 at the University of Zambia. All monetary values are in Zambian Kwacha (ZMW).\n\n## Files\n- db-unza26-csc4792-full_dataset.csv — Complete deduplicated dataset (963 rows)\n- db-unza26-csc4792-cdf_projects.csv — CDF project records (387 rows)\n- db-unza26-csc4792-budget_revenue.csv — Revenue budget lines (235 rows)\n- db-unza26-csc4792-budget_expenditure.csv — Expenditure budget lines (213 rows)\n- db-unza26-csc4792-council_resolutions.csv — Council meeting resolutions (88 rows)\n- db-unza26-csc4792-financial_statements.csv — Annual financial statements (23 rows)\n- db-unza26-csc4792-debt_arrears.csv — Debt and arrears (13 rows)\n- db-unza26-csc4792-empowerment_grants.csv — Empowerment grants (4 rows)\n- db-unza26-csc4792-duplicates.csv — Removed duplicate records (120 rows)\n\n## Columns\nrecord_id | record_type | fiscal_year | period | category | line_item | actual_zmw | description | source_document | source_table | source_page | stakeholders\n\nSeparator: pipe (|)",
+  "resources": [
+    {
+      "path": "db-unza26-csc4792-full_dataset.csv",
+      "description": "Complete deduplicated dataset (963 rows, 12 columns)"
+    },
+    {
+      "path": "db-unza26-csc4792-cdf_projects.csv",
+      "description": "Constituency Development Fund project records (387 rows)"
+    },
+    {
+      "path": "db-unza26-csc4792-budget_revenue.csv",
+      "description": "Revenue budget line items (235 rows)"
+    },
+    {
+      "path": "db-unza26-csc4792-budget_expenditure.csv",
+      "description": "Expenditure budget line items (213 rows)"
+    },
+    {
+      "path": "db-unza26-csc4792-council_resolutions.csv",
+      "description": "Council meeting resolutions (88 rows)"
+    },
+    {
+      "path": "db-unza26-csc4792-financial_statements.csv",
+      "description": "Annual financial statement summaries (23 rows)"
+    },
+    {
+      "path": "db-unza26-csc4792-debt_arrears.csv",
+      "description": "Debt and arrears records (13 rows)"
+    },
+    {
+      "path": "db-unza26-csc4792-empowerment_grants.csv",
+      "description": "Empowerment grant allocations (4 rows)"
+    },
+    {
+      "path": "db-unza26-csc4792-duplicates.csv",
+      "description": "Duplicate records removed during cleaning (120 rows)"
+    }
+  ]
+}

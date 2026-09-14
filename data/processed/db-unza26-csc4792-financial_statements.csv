@@ -1,0 +1,118 @@
+record_id|fiscal_year|period|category|line_item|actual_zmw|description|source_document|source_table|source_page
+KIT-AFS-2018-001|2018|FY2018|Receipts|Total Cash Receipts|121715673.0|Cash receipts for FY2018|Kitwe-City-Council-2018-FS.pdf|Statement of Cash Receipts|11.0
+KIT-AFS-2018-002|2018|FY2018|Payments|Total Payments|115932159.0|Total payments for FY2018|Kitwe-City-Council-2018-FS.pdf|Statement of Cash Receipts|11.0
+KIT-AFS-2018-003|2018|FY2018|Net|Increase/(Decrease) in Cash|5783514.0|Net cash movement FY2018|Kitwe-City-Council-2018-FS.pdf|Statement of Cash Receipts|11.0
+KIT-AFS-2019-001|2019|FY2019|Receipts|Total Cash Receipts|135415812.0|Cash receipts for FY2019|Kitwe-City-Council-2019-FS.pdf|Statement of Cash Receipts|11.0
+KIT-AFS-2019-002|2019|FY2019|Payments|Total Payments|129989709.0|Total payments for FY2019|Kitwe-City-Council-2019-FS.pdf|Statement of Cash Receipts|11.0
+KIT-AFS-2019-003|2019|FY2019|Net|Increase/(Decrease) in Cash|5426103.0|Net cash movement FY2019|Kitwe-City-Council-2019-FS.pdf|Statement of Cash Receipts|11.0
+KIT-AFS-2020-001|2020|FY2020|Receipts|Total Cash Receipts|133288662.0|Cash receipts for FY2020|Kitwe-City-Council-2020-FS.pdf|Statement of Cash Receipts|12.0
+KIT-AFS-2020-002|2020|FY2020|Payments|Total Payments|123667113.0|Total payments for FY2020|Kitwe-City-Council-2020-FS.pdf|Statement of Cash Receipts|12.0
+KIT-AFS-2020-003|2020|FY2020|Net|Increase/(Decrease) in Cash|9621549.0|Net cash movement FY2020|Kitwe-City-Council-2020-FS.pdf|Statement of Cash Receipts|12.0
+KIT-AFS-2021-001|2021|FY2021|Receipts|Total Cash Receipts|158232505.0|Cash receipts for FY2021|Kitwe-City-Council-2021-FS.pdf|Statement of Cash Receipts|12.0
+KIT-AFS-2021-002|2021|FY2021|Payments|Total Payments|150048049.0|Total payments for FY2021|Kitwe-City-Council-2021-FS.pdf|Statement of Cash Receipts|12.0
+KIT-AFS-2021-003|2021|FY2021|Net|Increase/(Decrease) in Cash|8184457.0|Net cash movement FY2021|Kitwe-City-Council-2021-FS.pdf|Statement of Cash Receipts|12.0
+KIT-AFS-2022-001|2022|FY2022|Receipts|Total Cash Receipts|257476921.0|Cash receipts for FY2022|Kitwe-City-Council-2022-Financial-Statements.docx|Statement of Cash Receipts|11.0
+KIT-AFS-2022-002|2022|FY2022|Payments|Total Payments|189001826.0|Total payments for FY2022|Kitwe-City-Council-2022-Financial-Statements.docx|Statement of Cash Receipts|11.0
+KIT-AFS-2022-003|2022|FY2022|Net|Increase/(Decrease) in Cash|68475095.0|Net cash movement FY2022|Kitwe-City-Council-2022-Financial-Statements.docx|Statement of Cash Receipts|11.0
+KIT-AFS-2023-001|2023|FY2023|Receipts|Total Cash Receipts|328329974.0|Cash receipts for FY2023|Kitwe-C-C-2023-Financial-Statements-SIGNED.pdf|Statement of Cash Receipts|13.0
+KIT-AFS-2023-002|2023|FY2023|Payments|Total Payments|310921980.0|Total payments for FY2023|Kitwe-C-C-2023-Financial-Statements-SIGNED.pdf|Statement of Cash Receipts|13.0
+KIT-AFS-2023-003|2023|FY2023|Net|Increase/(Decrease) in Cash|17407994.0|Net cash movement FY2023|Kitwe-C-C-2023-Financial-Statements-SIGNED.pdf|Statement of Cash Receipts|13.0
+KIT-AFS-2024-001|2024|FY2024|Receipts|Total Cash Receipts|368140890.0|Cash receipts for FY2024|Kitwe-C-C-2024-Audited-financial-statements-final-071125.pdf|Statement of Cash Receipts|13.0
+KIT-AFS-2024-002|2024|FY2024|Payments|Total Payments|461956584.0|Total payments for FY2024|Kitwe-C-C-2024-Audited-financial-statements-final-071125.pdf|Statement of Cash Receipts|13.0
+KIT-AFS-2024-003|2024|FY2024|Net|Increase/(Decrease) in Cash|-93815694.0|Net cash movement FY2024 (deficit)|Kitwe-C-C-2024-Audited-financial-statements-final-071125.pdf|Statement of Cash Receipts|13.0
+KIT-AFS-2024-004|2024|FY2024|Balance|Cash at end of year|28586495.0|Closing cash balance 2024|Kitwe-C-C-2024-Audited-financial-statements-final-071125.pdf|Statement of Cash Receipts|13.0
+KIT-REV-2018-LT-001|2018|FY2018|Local Taxes|Residential Rates|8398610.0|FY2018 residential rates|Kitwe-City-Council-2018-FS.pdf|Note 2|19.0
+KIT-REV-2018-LT-002|2018|FY2018|Local Taxes|Industrial/Commercial Rates|15704892.0|FY2018 industrial/commercial rates|Kitwe-City-Council-2018-FS.pdf|Note 2|19.0
+KIT-REV-2018-LT-003|2018|FY2018|Local Taxes|Mining Rates|10867813.0|FY2018 mining rates|Kitwe-City-Council-2018-FS.pdf|Note 2|19.0
+KIT-REV-2018-LT-004|2018|FY2018|Local Taxes|Personal Levy|215019.0|FY2018 personal levy|Kitwe-City-Council-2018-FS.pdf|Note 2|19.0
+KIT-REV-2019-LT-001|2019|FY2019|Local Taxes|Residential Rates|10159553.0|FY2019 residential rates|Kitwe-City-Council-2019-FS.pdf|Note 2|21.0
+KIT-REV-2019-LT-002|2019|FY2019|Local Taxes|Industrial/Commercial Rates|18853520.0|FY2019 industrial/commercial rates|Kitwe-City-Council-2019-FS.pdf|Note 2|21.0
+KIT-REV-2019-LT-003|2019|FY2019|Local Taxes|Mining Rates|9830402.0|FY2019 mining rates|Kitwe-City-Council-2019-FS.pdf|Note 2|21.0
+KIT-REV-2019-LT-004|2019|FY2019|Local Taxes|Personal Levy|165120.0|FY2019 personal levy|Kitwe-City-Council-2019-FS.pdf|Note 2|21.0
+KIT-REV-2020-LT-001|2020|FY2020|Local Taxes|Residential Rates|5770169.0|FY2020 residential rates|Kitwe-City-Council-2020-FS.pdf|Note 2|22.0
+KIT-REV-2020-LT-002|2020|FY2020|Local Taxes|Industrial/Commercial Rates|18899860.0|FY2020 industrial/commercial rates|Kitwe-City-Council-2020-FS.pdf|Note 2|22.0
+KIT-REV-2020-LT-003|2020|FY2020|Local Taxes|Mining Rates|12500949.0|FY2020 mining rates|Kitwe-City-Council-2020-FS.pdf|Note 2|22.0
+KIT-REV-2020-LT-004|2020|FY2020|Local Taxes|Personal Levy|159405.0|FY2020 personal levy|Kitwe-City-Council-2020-FS.pdf|Note 2|22.0
+KIT-REV-2021-LT-001|2021|FY2021|Local Taxes|Residential Rates|5679780.0|FY2021 residential rates|Kitwe-City-Council-2021-FS.pdf|Note 2|22.0
+KIT-REV-2021-LT-002|2021|FY2021|Local Taxes|Industrial/Commercial Rates|21488186.0|FY2021 industrial/commercial rates|Kitwe-City-Council-2021-FS.pdf|Note 2|22.0
+KIT-REV-2021-LT-003|2021|FY2021|Local Taxes|Mining Rates|22740486.0|FY2021 mining rates|Kitwe-City-Council-2021-FS.pdf|Note 2|22.0
+KIT-REV-2021-LT-004|2021|FY2021|Local Taxes|Personal Levy|124831.0|FY2021 personal levy|Kitwe-City-Council-2021-FS.pdf|Note 2|22.0
+KIT-REV-2022-LT-001|2022|FY2022|Local Taxes|Residential Rates|6155413.0|FY2022 residential rates|Kitwe-City-Council-2022-Financial-Statements.docx|Note 2|21.0
+KIT-REV-2022-LT-002|2022|FY2022|Local Taxes|Industrial/Commercial Rates|19357395.0|FY2022 industrial/commercial rates|Kitwe-City-Council-2022-Financial-Statements.docx|Note 2|21.0
+KIT-REV-2022-LT-003|2022|FY2022|Local Taxes|Mining Rates|31124492.0|FY2022 mining rates|Kitwe-City-Council-2022-Financial-Statements.docx|Note 2|21.0
+KIT-REV-2022-LT-004|2022|FY2022|Local Taxes|Personal Levy|126770.0|FY2022 personal levy|Kitwe-City-Council-2022-Financial-Statements.docx|Note 2|21.0
+KIT-REV-2023-LT-001|2023|FY2023|Local Taxes|Residential Rates|7506104.0|FY2023 residential rates|Kitwe-C-C-2023-Financial-Statements-SIGNED.pdf|Note 2|24.0
+KIT-REV-2023-LT-002|2023|FY2023|Local Taxes|Industrial/Commercial Rates|19032047.0|FY2023 industrial/commercial rates|Kitwe-C-C-2023-Financial-Statements-SIGNED.pdf|Note 2|24.0
+KIT-REV-2023-LT-003|2023|FY2023|Local Taxes|Mining Rates|76399799.0|FY2023 mining rates|Kitwe-C-C-2023-Financial-Statements-SIGNED.pdf|Note 2|24.0
+KIT-REV-2023-LT-004|2023|FY2023|Local Taxes|Personal Levy|170279.0|FY2023 personal levy|Kitwe-C-C-2023-Financial-Statements-SIGNED.pdf|Note 2|24.0
+KIT-REV-2024-LT-001|2024|FY2024|Local Taxes|Residential Rates|7462769.0|FY2024 residential rates|Kitwe-C-C-2024-Audited-financial-statements-final-071125.pdf|Note 2|25.0
+KIT-REV-2024-LT-002|2024|FY2024|Local Taxes|Industrial/Commercial Rates|24546043.0|FY2024 industrial/commercial rates|Kitwe-C-C-2024-Audited-financial-statements-final-071125.pdf|Note 2|25.0
+KIT-REV-2024-LT-003|2024|FY2024|Local Taxes|Mining Rates|186119095.0|FY2024 mining rates|Kitwe-C-C-2024-Audited-financial-statements-final-071125.pdf|Note 2|25.0
+KIT-REV-2024-LT-004|2024|FY2024|Local Taxes|Personal Levy|421093.0|FY2024 personal levy|Kitwe-C-C-2024-Audited-financial-statements-final-071125.pdf|Note 2|25.0
+KIT-REV-2023-FC-001|2023|FY2023|Fees and Charges|Total Fees and Charges|30706709.0|FY2023 total fees and charges|Kitwe-C-C-2023-Financial-Statements-SIGNED.pdf|Note 3|24.0
+KIT-REV-2023-FC-002|2023|FY2023|Fees and Charges|Market Fees|3882724.0|FY2023 market fees|Kitwe-C-C-2023-Financial-Statements-SIGNED.pdf|Note 3|24.0
+KIT-REV-2023-FC-003|2023|FY2023|Fees and Charges|Bus Station Fees|5702116.0|FY2023 bus station fees|Kitwe-C-C-2023-Financial-Statements-SIGNED.pdf|Note 3|24.0
+KIT-REV-2023-FC-004|2023|FY2023|Fees and Charges|Grave Reservation|4480070.0|FY2023 grave reservation fees|Kitwe-C-C-2023-Financial-Statements-SIGNED.pdf|Note 3|24.0
+KIT-REV-2023-FC-005|2023|FY2023|Fees and Charges|Billboards and Banners|1921981.0|FY2023 billboard fees|Kitwe-C-C-2023-Financial-Statements-SIGNED.pdf|Note 3|24.0
+KIT-REV-2023-LV-001|2023|FY2023|Levies|Retail Levy|6493459.0|FY2023 retail levy|Kitwe-C-C-2023-Financial-Statements-SIGNED.pdf|Note 5|27.0
+KIT-REV-2023-LV-002|2023|FY2023|Levies|Petroleum Levy|1040680.0|FY2023 petroleum levy|Kitwe-C-C-2023-Financial-Statements-SIGNED.pdf|Note 5|27.0
+KIT-REV-2023-PM-001|2023|FY2023|Permits|Health Permit|6554389.0|FY2023 health permits|Kitwe-C-C-2023-Financial-Statements-SIGNED.pdf|Note 6|28.0
+KIT-REV-2023-PM-002|2023|FY2023|Permits|Fire Certificates|3478794.0|FY2023 fire certificates|Kitwe-C-C-2023-Financial-Statements-SIGNED.pdf|Note 6|28.0
+KIT-REV-2024-LV-001|2024|FY2024|Levies|Retail Levy|10120090.0|FY2024 retail levy|Kitwe-C-C-2024-Audited-financial-statements-final-071125.pdf|Note 5|28.0
+KIT-REV-2024-LV-002|2024|FY2024|Levies|Petroleum Levy|1254140.0|FY2024 petroleum levy|Kitwe-C-C-2024-Audited-financial-statements-final-071125.pdf|Note 5|28.0
+KIT-REV-2024-PM-001|2024|FY2024|Permits|Health Permit|8732678.0|FY2024 health permits|Kitwe-C-C-2024-Audited-financial-statements-final-071125.pdf|Note 6|28.0
+KIT-REV-2024-PM-002|2024|FY2024|Permits|Fire Certificates|4872949.0|FY2024 fire certificates|Kitwe-C-C-2024-Audited-financial-statements-final-071125.pdf|Note 6|28.0
+KIT-REV-2024-PM-003|2024|FY2024|Permits|Burial Permits|4544058.0|FY2024 burial permits (new line item)|Kitwe-C-C-2024-Audited-financial-statements-final-071125.pdf|Note 6|28.0
+KIT-EXP-2018-001|2018|FY2018|Personal Emoluments|Personal Emoluments|66983271.0|FY2018 personal emoluments|Kitwe-City-Council-2018-FS.pdf|Note 13|24.0
+KIT-EXP-2018-002|2018|FY2018|Goods and Services|Use of Goods and Services|28413727.0|FY2018 goods and services|Kitwe-City-Council-2018-FS.pdf|Note 14|26.0
+KIT-EXP-2019-001|2019|FY2019|Personal Emoluments|Personal Emoluments|70268646.0|FY2019 personal emoluments|Kitwe-City-Council-2019-FS.pdf|Note 13|27.0
+KIT-EXP-2019-002|2019|FY2019|Goods and Services|Use of Goods and Services|41715575.0|FY2019 goods and services|Kitwe-City-Council-2019-FS.pdf|Note 14|27.0
+KIT-EXP-2020-001|2020|FY2020|Personal Emoluments|Personal Emoluments|65765139.0|FY2020 personal emoluments|Kitwe-City-Council-2020-FS.pdf|Note 13|27.0
+KIT-EXP-2020-002|2020|FY2020|Goods and Services|Use of Goods and Services|31664071.0|FY2020 goods and services|Kitwe-City-Council-2020-FS.pdf|Note 14|28.0
+KIT-EXP-2021-001|2021|FY2021|Personal Emoluments|Personal Emoluments|68821507.0|FY2021 personal emoluments|Kitwe-City-Council-2021-FS.pdf|Note 13|29.0
+KIT-EXP-2021-002|2021|FY2021|Goods and Services|Use of Goods and Services|47278614.0|FY2021 goods and services|Kitwe-City-Council-2021-FS.pdf|Note 14|29.0
+KIT-EXP-2022-001|2022|FY2022|Personal Emoluments|Personal Emoluments|84176732.0|FY2022 personal emoluments|Kitwe-City-Council-2022-Financial-Statements.docx|Note 13|30.0
+KIT-EXP-2022-002|2022|FY2022|Goods and Services|Use of Goods and Services|75836968.0|FY2022 goods and services|Kitwe-City-Council-2022-Financial-Statements.docx|Note 14|30.0
+KIT-EXP-2022-003|2022|FY2022|Social Benefits|Social Benefits|7262787.0|FY2022 social benefits|Kitwe-City-Council-2022-Financial-Statements.docx|Note 16|31.0
+KIT-EXP-2023-001|2023|FY2023|Personal Emoluments|Personal Emoluments|93858577.0|FY2023 personal emoluments|Kitwe-C-C-2023-Financial-Statements-SIGNED.pdf|Note 13|35.0
+KIT-EXP-2023-002|2023|FY2023|Goods and Services|Use of Goods and Services|115598020.0|FY2023 goods and services|Kitwe-C-C-2023-Financial-Statements-SIGNED.pdf|Note 14|36.0
+KIT-EXP-2023-003|2023|FY2023|Social Benefits|Social Benefits|11972228.0|FY2023 social benefits|Kitwe-C-C-2023-Financial-Statements-SIGNED.pdf|Note 16|36.0
+KIT-REV-2025-Q2-001|2025|Q1-Q2|National Support|Local Government Equalisation Fund|46365890.38||Budget-Performance-Report-116-LAs.pdf|Table 13|25.0
+KIT-REV-2025-Q2-002|2025|Q1-Q2|National Support|Grants In Lieu of Rates|842893.0||Budget-Performance-Report-116-LAs.pdf|Table 13|25.0
+KIT-REV-2025-Q2-003|2025|Q1-Q2|National Support|Sector Grants|68024766.7||Budget-Performance-Report-116-LAs.pdf|Table 13|26.0
+KIT-REV-2025-Q2-004|2025|Q1-Q2|National Support|ZDSP Capital Grants|0.0||Budget-Performance-Report-116-LAs.pdf|Table 13|26.0
+KIT-REV-2025-Q2-005|2025|Q1-Q2|National Support|Constituency Development Fund|316107891.6||Budget-Performance-Report-116-LAs.pdf|Table 13|26.0
+KIT-REV-2025-Q2-006|2025|Q1-Q2|National Support|Other Grants|77201337.0||Budget-Performance-Report-116-LAs.pdf|Table 13|26.0
+KIT-REV-2025-Q2-007|2025|Q1-Q2|National Support|Sub-total|508542778.7||Budget-Performance-Report-116-LAs.pdf|Table 13|26.0
+KIT-REV-2025-Q2-008|2025|Q1-Q2|Own Source Revenue|Local Taxes|276111868.1||Budget-Performance-Report-116-LAs.pdf|Table 13|26.0
+KIT-REV-2025-Q2-009|2025|Q1-Q2|Own Source Revenue|Fee & Charges|92272566.78||Budget-Performance-Report-116-LAs.pdf|Table 13|26.0
+KIT-REV-2025-Q2-010|2025|Q1-Q2|Own Source Revenue|Licences|4405511.29||Budget-Performance-Report-116-LAs.pdf|Table 13|26.0
+KIT-REV-2025-Q2-011|2025|Q1-Q2|Own Source Revenue|Levies|15758193.88||Budget-Performance-Report-116-LAs.pdf|Table 13|26.0
+KIT-REV-2025-Q2-012|2025|Q1-Q2|Own Source Revenue|Permits|18476132.39||Budget-Performance-Report-116-LAs.pdf|Table 13|26.0
+KIT-REV-2025-Q2-013|2025|Q1-Q2|Own Source Revenue|Commercial ventures|96983.0||Budget-Performance-Report-116-LAs.pdf|Table 13|26.0
+KIT-REV-2025-Q2-014|2025|Q1-Q2|Own Source Revenue|Others OSR|2590519.13||Budget-Performance-Report-116-LAs.pdf|Table 13|26.0
+KIT-REV-2025-Q2-015|2025|Q1-Q2|Own Source Revenue|Sub-total|409711774.6||Budget-Performance-Report-116-LAs.pdf|Table 13|26.0
+KIT-REV-2025-Q2-016|2025|Q1-Q2|Other Revenue|Bank interest received|88159.0||Budget-Performance-Report-116-LAs.pdf|Table 13|26.0
+KIT-REV-2025-Q2-017|2025|Q1-Q2|Other Revenue|Borrowings - Loans|0.0||Budget-Performance-Report-116-LAs.pdf|Table 13|26.0
+KIT-REV-2025-Q2-018|2025|Q1-Q2|Other Revenue|Borrowings - Overdraft|0.0||Budget-Performance-Report-116-LAs.pdf|Table 13|26.0
+KIT-REV-2025-Q2-019|2025|Q1-Q2|Other Revenue|Others|6084239.35||Budget-Performance-Report-116-LAs.pdf|Table 13|26.0
+KIT-REV-2025-Q2-020|2025|Q1-Q2|Other Revenue|Sub-total|6172398.35||Budget-Performance-Report-116-LAs.pdf|Table 13|26.0
+KIT-REV-2025-Q2-021|2025|Q1-Q2|Total|Total|924426951.6||Budget-Performance-Report-116-LAs.pdf|Table 13|26.0
+KIT-REV-2025-Q2-022|2025|Q1-Q2|Total|Carry over funds|202460220.0||Budget-Performance-Report-116-LAs.pdf|Table 13|26.0
+KIT-REV-2025-Q2-023|2025|Q1-Q2|Total|Grand total (incl. carryover)|1126887172.0||Budget-Performance-Report-116-LAs.pdf|Table 13|26.0
+KIT-EXP-2025-Q2-001|2025|Q1-Q2|Personal emoluments|Personal emoluments|271093002.4||Budget-Performance-Report-116-LAs.pdf|Table 14|27.0
+KIT-EXP-2025-Q2-002|2025|Q1-Q2|Use of goods and services|Use of goods and services|315526395.5||Budget-Performance-Report-116-LAs.pdf|Table 14|27.0
+KIT-EXP-2025-Q2-003|2025|Q1-Q2|Financial charges|Financial charges|0.0||Budget-Performance-Report-116-LAs.pdf|Table 14|27.0
+KIT-EXP-2025-Q2-004|2025|Q1-Q2|Social benefits|Social benefits|139424116.9||Budget-Performance-Report-116-LAs.pdf|Table 14|27.0
+KIT-EXP-2025-Q2-005|2025|Q1-Q2|Non-financial assets|Non-financial assets|180789852.3||Budget-Performance-Report-116-LAs.pdf|Table 14|27.0
+KIT-EXP-2025-Q2-006|2025|Q1-Q2|Financial assets|Financial assets|38076631.04||Budget-Performance-Report-116-LAs.pdf|Table 14|27.0
+KIT-EXP-2025-Q2-007|2025|Q1-Q2|Loan repayments|Loan repayments|0.0||Budget-Performance-Report-116-LAs.pdf|Table 14|27.0
+KIT-EXP-2025-Q2-008|2025|Q1-Q2|Other repayments|Other repayments|25965785.57||Budget-Performance-Report-116-LAs.pdf|Table 14|27.0
+KIT-EXP-2025-Q2-009|2025|Q1-Q2|Total payments|Total payments|970875783.6||Budget-Performance-Report-116-LAs.pdf|Table 14|27.0
+KIT-EXP-2025-Q2-010|2025|Q1-Q2|Net Budget Performance|Net Budget Performance|156011388.0|Net Budget Performance (as of 10/09/2026)|Budget-Performance-Report-116-LAs.pdf|Table 14|27.0
+KIT-LOC-2023-001|2023|FY2023|Local Taxes|Residential Rates|7506104.0|From audited 2023 financial statements|Kitwe Financial Statements 2023|Note 2|24.0
+KIT-LOC-2023-002|2023|FY2023|Local Taxes|Industrial/Commercial Rates|19032047.0|From audited 2023 financial statements|Kitwe Financial Statements 2023|Note 2|24.0
+KIT-LOC-2023-003|2023|FY2023|Local Taxes|Mining Rates|76399799.0|From audited 2023 financial statements|Kitwe Financial Statements 2023|Note 2|24.0
+KIT-LOC-2023-004|2023|FY2023|Local Taxes|Personal Levy|170279.0|From audited 2023 financial statements|Kitwe Financial Statements 2023|Note 2|24.0
+KIT-LOC-2023-005|2023|FY2023|Local Taxes|TOTAL Local Taxes|103108229.0|From audited 2023 financial statements|Kitwe Financial Statements 2023|Note 2|24.0
+KIT-LOC-2023-006|2023|FY2023|Fees and Charges|TOTAL Fees and Charges|30706709.0|From audited 2023 financial statements|Kitwe Financial Statements 2023|Note 3|24.0
